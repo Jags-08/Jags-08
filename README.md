@@ -212,7 +212,7 @@ while not success:
   <img src="https://img.shields.io/badge/GitHub-Jags--08-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="www.linkedin.com/in/joshi-jagrut">
+<a href="[www.linkedin.com/in/joshi-jagrut](https://www.linkedin.com/in/joshi-jagrut/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVyMul29iSIu9F1d2uKbdsA%3D%3D)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 &nbsp;
