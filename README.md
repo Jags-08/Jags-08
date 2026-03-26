@@ -1,32 +1,29 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════ -->
-<!--              HEADER SECTION                 -->
-<!-- ═══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0d1b2a,70:1a3a5c,100:0a0f1e&amp;height=230&amp;section=header&amp;text=Jagrut%20Joshi&amp;fontSize=80&amp;fontColor=38BDF8&amp;fontAlignY=42&amp;desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CS%20%40%20DYPIU&amp;descAlignY=62&amp;descSize=17&amp;descColor=90CAF9&amp;animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=900&amp;size=55&amp;duration=1&amp;pause=99999&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=90&amp;lines=Jagrut+Joshi" alt="Jagrut Joshi" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=1&amp;pause=99999&amp;color=90CAF9&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=720&amp;height=35&amp;lines=AI+%26+ML+Engineer+in+the+Making+%7C+B.Tech+CS+%40+DYPIU+%7C+Pune%2C+India" alt="subtitle" />
+<br/>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+AI+%26+ML+Systems+%F0%9F%A4%96;B.Tech+CS+%40+DY+Patil+International+University;Exploring+Deep+Learning+%26+Data+Science;Turning+Data+into+Intelligence+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Computer+Science+Student+%40+DYPIU+%F0%9F%8F%AB;Aspiring+AI+%26+ML+Engineer+%F0%9F%A4%96;Exploring+Deep+Learning+%26+Data+Science+%F0%9F%A7%A0;Turning+Data+into+Intelligence+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jags-08&amp;style=for-the-badge&amp;color=0e7fc0&amp;label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Jags-08?style=for-the-badge&amp;color=0e7fc0&amp;labelColor=0a0f1e&amp;label=FOLLOWERS" />
+[![Profile Views](https://komarev.com/ghpvc/?username=Jags-08&label=Profile+Views&color=38BDF8&style=flat-square)](https://github.com/Jags-08)
+[![GitHub followers](https://img.shields.io/github/followers/Jags-08?label=Followers&style=social)](https://github.com/Jags-08)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-%2338BDF8?style=flat-square&logo=statuspage&logoColor=black)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML-%230a0f1e?style=flat-square&logo=artifacthub&logoColor=38BDF8)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--             WHOAMI SECTION                  -->
-<!-- ═══════════════════════════════════════════ -->
+<picture>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
+</picture>
 
 ## 🧠 `whoami`
 
@@ -65,11 +62,9 @@ class JagrutJoshi:
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--           FEATURED PROJECTS                 -->
-<!-- ═══════════════════════════════════════════ -->
+<picture>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
+</picture>
 
 ## 🚀 Featured Projects
 
@@ -85,11 +80,9 @@ class JagrutJoshi:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--              TECH STACK                     -->
-<!-- ═══════════════════════════════════════════ -->
+<picture>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
+</picture>
 
 ## 🛠️ Tech Stack
 
@@ -127,11 +120,9 @@ class JagrutJoshi:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--           GITHUB ANALYTICS                  -->
-<!-- ═══════════════════════════════════════════ -->
+<picture>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
+</picture>
 
 ## 📊 GitHub Analytics
 
@@ -151,11 +142,9 @@ class JagrutJoshi:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--          CURRENTLY LEARNING                 -->
-<!-- ═══════════════════════════════════════════ -->
+<picture>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
+</picture>
 
 ## 📚 Currently Learning
 
@@ -171,7 +160,9 @@ class JagrutJoshi:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<picture>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
+</picture>
 
 ## 🎯 2025 Goals
 
@@ -185,7 +176,9 @@ class JagrutJoshi:
 ⬜  Get AWS / Google Cloud certified
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<picture>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
+</picture>
 
 ## 💬 Quote I Live By
 
@@ -203,7 +196,9 @@ while not success:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<picture>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
+</picture>
 
 ## 📫 Let's Connect
 
@@ -237,8 +232,4 @@ while not success:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  <sub>⭐ Star some repos if you find them helpful!</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d1b2a,70:1a3a5c,100:0a0f1e&height=120&section=footer&animation=fadeIn" width="100%"/>
