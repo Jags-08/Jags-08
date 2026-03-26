@@ -212,11 +212,11 @@ while not success:
   <img src="https://img.shields.io/badge/GitHub-Jags--08-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/joshi-jagrut">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:jagrutjoshi02@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
