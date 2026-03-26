@@ -2,16 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jagrut%20Joshi&fontSize=70&fontColor=38BDF8&color=0:0a0f1e,100:1a3a5c"/>
 </p>
 
-<h3 align="center" style="margin-top:-15px; margin-bottom:10px;">
-  Aspiring AI & ML Engineer 🤖
-</h3>
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jags-08&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Jags-08?label=Followers&style=for-the-badge&color=38BDF8"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-38BDF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-0a0f1e?style=for-the-badge&logo=artifacthub&logoColor=38BDF8"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Computer+Science+Student+%40+DYPIU+%F0%9F%8F%AB;Aspiring+AI+%26+ML+Engineer+%F0%9F%A4%96;Exploring+Deep+Learning+%26+Data+Science+%F0%9F%A7%A0;Turning+Data+into+Intelligence+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+  </a>
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jags-08&label=Profile%20Views&color=1a3a5c&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Jags-08?label=Followers&style=for-the-badge&color=1a3a5c"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-1a3a5c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-1a3a5c?style=for-the-badge&logo=artifacthub&logoColor=38BDF8"/>
+</p>
+
+<br/>
 
 </div>
 
