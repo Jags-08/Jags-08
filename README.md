@@ -25,7 +25,7 @@
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:0a0f1e,100:1a3a5c)
 
 ## 🧠 `whoami`
 
@@ -64,7 +64,7 @@ class JagrutJoshi:
 
 <br clear="right"/>
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:0a0f1e,100:1a3a5c)
 
 ## 🚀 Featured Projects
 
@@ -80,7 +80,7 @@ class JagrutJoshi:
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:0a0f1e,100:1a3a5c)
 
 ## 🛠️ Tech Stack
 
@@ -118,7 +118,7 @@ class JagrutJoshi:
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:0a0f1e,100:1a3a5c)
 
 ## 📊 GitHub Analytics
 
@@ -138,7 +138,7 @@ class JagrutJoshi:
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:0a0f1e,100:1a3a5c)
 
 ## 📚 Currently Learning
 
@@ -154,7 +154,7 @@ class JagrutJoshi:
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:0a0f1e,100:1a3a5c)
 
 ## 🎯 2025 Goals
 
@@ -168,7 +168,7 @@ class JagrutJoshi:
 ⬜  Get AWS / Google Cloud certified
 ```
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:0a0f1e,100:1a3a5c)
 
 ## 💬 Quote I Live By
 
@@ -186,7 +186,7 @@ while not success:
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:0a0f1e,100:1a3a5c)
 
 ## 📫 Let's Connect
 
