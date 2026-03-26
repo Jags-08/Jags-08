@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0d1b2a,60:1a2744,100:0a0f1e&amp;height=250&amp;section=header&amp;text=Jagrut%20Joshi&amp;fontSize=70&amp;fontColor=E8F4FD&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CS%20%40%20DYPIU&amp;descAlignY=58&amp;descSize=17&amp;descColor=90CAF9&amp;animation=fadeIn" width="100%" />
+<!-- ═══════════════════════════════════════════ -->
+<!--              HEADER SECTION                 -->
+<!-- ═══════════════════════════════════════════ -->
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=900&amp;size=55&amp;duration=1&amp;pause=99999&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=90&amp;lines=Jagrut+Joshi" alt="Jagrut Joshi" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=1&amp;pause=99999&amp;color=90CAF9&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=720&amp;height=35&amp;lines=AI+%26+ML+Engineer+in+the+Making+%7C+B.Tech+CS+%40+DYPIU+%7C+Pune%2C+India" alt="subtitle" />
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+AI+%26+ML+Systems+%F0%9F%A4%96;B.Tech+CS+%40+DY+Patil+International+University;Exploring+Deep+Learning+%26+Data+Science;Turning+Data+into+Intelligence+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
 
@@ -12,17 +18,19 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/Jags-08?style=for-the-badge&amp;color=0e7fc0&amp;labelColor=0a0f1e&amp;label=FOLLOWERS" />
 
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--             WHOAMI SECTION                  -->
+<!-- ═══════════════════════════════════════════ -->
 
 ## 🧠 `whoami`
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" />
 
 ```python
 class JagrutJoshi:
@@ -59,6 +67,10 @@ class JagrutJoshi:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════════════════════════════ -->
+<!--           FEATURED PROJECTS                 -->
+<!-- ═══════════════════════════════════════════ -->
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -74,6 +86,10 @@ class JagrutJoshi:
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              TECH STACK                     -->
+<!-- ═══════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -113,6 +129,10 @@ class JagrutJoshi:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════════════════════════════ -->
+<!--           GITHUB ANALYTICS                  -->
+<!-- ═══════════════════════════════════════════ -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -132,6 +152,10 @@ class JagrutJoshi:
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--          CURRENTLY LEARNING                 -->
+<!-- ═══════════════════════════════════════════ -->
 
 ## 📚 Currently Learning
 
@@ -213,4 +237,8 @@ while not success:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0d1b2a,60:1a2744,100:0a0f1e&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <sub>⭐ Star some repos if you find them helpful!</sub>
+</div>
