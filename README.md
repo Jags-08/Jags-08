@@ -13,12 +13,10 @@
 <br/>
 
 <p align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Jags-08&label=Profile+Views&color=38BDF8&style=flat-square)](https://github.com/Jags-08)
-[![GitHub followers](https://img.shields.io/github/followers/Jags-08?label=Followers&style=social)](https://github.com/Jags-08)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-38BDF8?style=flat-square&logo=statuspage&logoColor=black)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML-1a3a5c?style=flat-square&logo=artifacthub&logoColor=38BDF8)
-
+  <img src="https://komarev.com/ghpvc/?username=Jags-08&label=Profile%20Views&color=1a3a5c&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Jags-08?label=Followers&style=for-the-badge&color=1a3a5c"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-1a3a5c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-1a3a5c?style=for-the-badge&logo=artifacthub&logoColor=38BDF8"/>
 </p>
 
 <br/>
