@@ -1,6 +1,6 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d1b2a,70:1a3a5c,100:0a0f1e&height=230&section=header&text=Jagrut%20Joshi&fontSize=80&fontColor=38BDF8&fontAlignY=42&desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CS%20%40%20DYPIU&descAlignY=62&descSize=17&descColor=90CAF9&animation=fadeIn)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0d1b2a,70:1a3a5c,100:0a0f1e&amp;height=230&amp;section=header&amp;text=Jagrut%20Joshi&amp;fontSize=80&amp;fontColor=38BDF8&amp;fontAlignY=42&amp;desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CS%20%40%20DYPIU&amp;descAlignY=62&amp;descSize=17&amp;descColor=90CAF9&amp;animation=fadeIn" width="100%"/>
+<div align="center">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
 
@@ -21,9 +21,7 @@
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
-</picture>
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🧠 `whoami`
 
@@ -62,9 +60,7 @@ class JagrutJoshi:
 
 <br clear="right"/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
-</picture>
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🚀 Featured Projects
 
@@ -80,9 +76,7 @@ class JagrutJoshi:
 
 </div>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
-</picture>
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🛠️ Tech Stack
 
@@ -120,9 +114,7 @@ class JagrutJoshi:
 
 </div>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
-</picture>
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📊 GitHub Analytics
 
@@ -142,9 +134,7 @@ class JagrutJoshi:
 
 </div>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
-</picture>
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📚 Currently Learning
 
@@ -160,9 +150,7 @@ class JagrutJoshi:
 
 </div>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
-</picture>
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🎯 2025 Goals
 
@@ -176,9 +164,7 @@ class JagrutJoshi:
 ⬜  Get AWS / Google Cloud certified
 ```
 
-<picture>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
-</picture>
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💬 Quote I Live By
 
@@ -196,9 +182,7 @@ while not success:
 
 </div>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d1ddef2c176e02af90f1e7f8895f4b88/images/marquee.svg" width="100%">
-</picture>
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📫 Let's Connect
 
@@ -232,4 +216,4 @@ while not success:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d1b2a,70:1a3a5c,100:0a0f1e&height=120&section=footer&animation=fadeIn" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d1b2a,70:1a3a5c,100:0a0f1e&height=120&section=footer&animation=fadeIn)
