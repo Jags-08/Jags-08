@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d1b2a,70:1a3a5c,100:0a0f1e&height=230&section=header&text=Jagrut%20Joshi&fontSize=80&fontColor=38BDF8&fontAlignY=42&desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CS%20%40%20DYPIU&descAlignY=62&descSize=17&descColor=90CAF9&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0d1b2a,70:1a3a5c,100:0a0f1e&amp;height=230&amp;section=header&amp;text=Jagrut%20Joshi&amp;fontSize=80&amp;fontColor=38BDF8&amp;fontAlignY=42&amp;desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CS%20%40%20DYPIU&amp;descAlignY=62&amp;descSize=17&amp;descColor=90CAF9&amp;animation=fadeIn)
 
 <div align="center">
 
@@ -12,10 +12,10 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jags-08&label=Profile+Views&color=38BDF8&style=flat-square)](https://github.com/Jags-08)
-[![GitHub followers](https://img.shields.io/github/followers/Jags-08?label=Followers&style=social)](https://github.com/Jags-08)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-%2338BDF8?style=flat-square&logo=statuspage&logoColor=black)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML-%230a0f1e?style=flat-square&logo=artifacthub&logoColor=38BDF8)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jags-08&amp;label=Profile+Views&amp;color=38BDF8&amp;style=flat-square)](https://github.com/Jags-08)
+[![GitHub followers](https://img.shields.io/github/followers/Jags-08?label=Followers&amp;style=social)](https://github.com/Jags-08)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-%2338BDF8?style=flat-square&amp;logo=statuspage&amp;logoColor=black)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML-%230a0f1e?style=flat-square&amp;logo=artifacthub&amp;logoColor=38BDF8)
 
 </div>
 
