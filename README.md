@@ -25,7 +25,9 @@
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:1a3a5c&height=3)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0f1e,30:38BDF8,70:38BDF8,100:0a0f1e" width="100%"/>
+</p>
 
 ## 🧠 `whoami`
 
