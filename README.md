@@ -1,11 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d1b2a,60:1a2744,100:0a0f1e&height=250&section=header&text=Jagrut%20Joshi&fontSize=70&fontColor=E8F4FD&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CS%20%40%20DYPIU&descAlignY=58&descSize=17&descColor=90CAF9&animation=fadeIn" width="100%"/>
+<!-- RELIABLE HEADER using readme-typing-svg + shields only -->
 
-<br/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&pause=99999&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Jagrut+Joshi" alt="Jagrut Joshi" />
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=99999&color=90CAF9&center=true&vCenter=true&width=700&height=40&lines=AI+%26+ML+Engineer+in+the+Making+%7C+B.Tech+CS+%40+DYPIU+%7C+Pune%2C+India" alt="subtitle" />
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI+%26+ML+Systems+%F0%9F%A4%96;B.Tech+CS+%40+DY+Patil+International+University;Exploring+Deep+Learning+%26+Data+Science;Turning+Data+into+Intelligence+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI+%26+ML+Systems+%F0%9F%A4%96;B.Tech+CS+%40+DY+Patil+International+University;Exploring+Deep+Learning+%26+Data+Science;Turning+Data+into+Intelligence+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -14,11 +20,15 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/Jags-08?style=for-the-badge&color=0e7fc0&labelColor=0a0f1e&label=FOLLOWERS" />
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
 
----
+<br/>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
 
 ## 🧠 `whoami`
 
@@ -55,6 +65,8 @@ class JagrutJoshi:
 
 <br clear="right"/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 🚀 Featured Projects
@@ -71,6 +83,8 @@ class JagrutJoshi:
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -80,22 +94,32 @@ class JagrutJoshi:
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
 
-### 📊 Data & ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 <br/>
+
+### 📊 Data & ML
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Matplotlib-005B9A?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Seaborn-3E7DBF?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<br/>
 
 ### 🌐 Web
 <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
 
+<br/>
+
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -117,6 +141,18 @@ class JagrutJoshi:
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jags-08&theme=tokyonight&no-frame=true&column=6&margin-w=4&margin-h=4" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 📚 Currently Learning
@@ -125,20 +161,12 @@ class JagrutJoshi:
 
 | Domain | Status | Progress |
 |--------|--------|----------|
-| 🤖 Machine Learning | Active | ![](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-60%25-38BDF8?style=flat-square) |
-| 🧬 Deep Learning | In Progress | ![](https://img.shields.io/badge/▓▓▓░░░░░░░-30%25-0e7fc0?style=flat-square) |
-| 🔍 Data Mining | Exploring | ![](https://img.shields.io/badge/▓▓▓▓░░░░░░-40%25-38BDF8?style=flat-square) |
-| 🖼️ Digital Image Processing | Active | ![](https://img.shields.io/badge/▓▓▓▓▓░░░░░-50%25-0e7fc0?style=flat-square) |
-| 🐍 Python for Data Science | Active | ![](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-70%25-38BDF8?style=flat-square) |
+| 🤖 Machine Learning | 🟢 Active | `▓▓▓▓▓▓░░░░` 60% |
+| 🧬 Deep Learning | 🟡 In Progress | `▓▓▓░░░░░░░` 30% |
+| 🔍 Data Mining | 🟢 Active | `▓▓▓▓░░░░░░` 40% |
+| 🖼️ Digital Image Processing | 🟢 Active | `▓▓▓▓▓░░░░░` 50% |
+| 🐍 Python for Data Science | 🟢 Active | `▓▓▓▓▓▓▓░░░` 70% |
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jags-08&theme=tokyonight&no-frame=true&column=6&margin-w=4&margin-h=4" />
 </div>
 
 ---
@@ -165,9 +193,15 @@ class JagrutJoshi:
 
 <br/>
 
-**`while (!success) { keep_learning(); keep_building(); }`**
+```python
+while not success:
+    keep_learning()
+    keep_building()
+```
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -189,14 +223,22 @@ class JagrutJoshi:
 
 <br/><br/>
 
-📌 **Open to:** Internships · Collaborations · ML Projects · Open Source
+📌 **Open to:** Internships &nbsp;·&nbsp; Collaborations &nbsp;·&nbsp; ML Projects &nbsp;·&nbsp; Open Source
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+
+<br/>
+
+<i>I love connecting with people — feel free to reach out!</i>
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a2744,100:0a0f1e&height=120&section=footer&fontSize=12&fontColor=38BDF8&animation=fadeIn" width="100%"/>
-
+  <sub>⭐ Star some repos if you find them helpful!</sub>
 </div>
