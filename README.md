@@ -1,12 +1,8 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=42&amp;pause=99999&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=70&amp;lines=Jagrut+Joshi" alt="Jagrut Joshi" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0d1b2a,60:1a2744,100:0a0f1e&amp;height=250&amp;section=header&amp;text=Jagrut%20Joshi&amp;fontSize=70&amp;fontColor=E8F4FD&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CS%20%40%20DYPIU&amp;descAlignY=58&amp;descSize=17&amp;descColor=90CAF9&amp;animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;pause=99999&amp;color=90CAF9&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=35&amp;lines=AI+%26+ML+Engineer+in+the+Making+%7C+B.Tech+CS+%40+DYPIU+%7C+Pune%2C+India" alt="subtitle" />
-
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+AI+%26+ML+Systems+%F0%9F%A4%96;B.Tech+CS+%40+DY+Patil+International+University;Exploring+Deep+Learning+%26+Data+Science;Turning+Data+into+Intelligence+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
 
@@ -217,8 +213,4 @@ while not success:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  <sub>⭐ Star some repos if you find them helpful!</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0d1b2a,60:1a2744,100:0a0f1e&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%" />
