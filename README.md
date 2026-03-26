@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jagrut%20Joshi&fontSize=70&fontColor=38BDF8&color=0:0a0f1e,100:1a3a5c"/>
 </p>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
-
 <br/>
 
 <a href="https://git.io/typing-svg">
