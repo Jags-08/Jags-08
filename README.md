@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0d1b2a,70:1a3a5c,100:0a0f1e&amp;height=230&amp;section=header&amp;text=Jagrut%20Joshi&amp;fontSize=80&amp;fontColor=38BDF8&amp;fontAlignY=42&amp;desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CS%20%40%20DYPIU&amp;descAlignY=62&amp;descSize=17&amp;descColor=90CAF9&amp;animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d1b2a,70:1a3a5c,100:0a0f1e&height=230&section=header&text=Jagrut%20Joshi&fontSize=80&fontColor=38BDF8&fontAlignY=42&desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CS%20%40%20DYPIU&descAlignY=62&descSize=17&descColor=90CAF9&animation=fadeIn"/>
+</p>
 
 <div align="center">
 
