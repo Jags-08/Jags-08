@@ -25,7 +25,7 @@
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:0a0f1e,100:1a3a5c)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:1a3a5c&height=3)
 
 ## 🧠 `whoami`
 
