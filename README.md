@@ -143,7 +143,7 @@ class JagrutJoshi:
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jags-08&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jags-08&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true&border_radius=12" width="95%" />
 
 <br/><br/>
 
