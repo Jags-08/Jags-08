@@ -142,7 +142,13 @@ class JagrutJoshi:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jags-08&amp;bg_color=0d1117&amp;color=38BDF8&amp;line=38BDF8&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;border_radius=12" width="95%" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jags-08&theme=tokyo-night&hide_border=true" width="95%" />
+
+<br/><br/>
+
+<!-- Backup Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jags-08&theme=tokyonight" width="95%" />
 
 </div>
 
