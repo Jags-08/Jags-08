@@ -150,23 +150,30 @@ class JagrutJoshi:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jags-08&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
+<!-- Stats Card — hosted on separate reliable Vercel instance -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jags-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
 &nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jags-08&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Jags-08&theme=tokyonight&hide_border=true"/>
+<!-- Top Languages Card — same reliable instance -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jags-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&border_radius=12&langs_count=8" height="180" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jags-08&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Jags-08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
 
-</div>
+<br/><br/>
 
-<!-- Profile Summary Cards -->
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Jags-08&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&border_radius=12" />
+
+<br/><br/>
+
+<!-- Activity Graph — theme=tokyo-night gives correct dark background -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jags-08&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=38BDF8&area_color=38BDF8&area=true&hide_border=true" width="95%" />
+
+<br/><br/>
+
+<!-- Profile Summary Cards — all 3 working correctly -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jags-08&theme=tokyonight" height="160"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jags-08&theme=tokyonight&utcOffset=5.5" height="160"/>
