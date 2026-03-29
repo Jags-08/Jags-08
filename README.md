@@ -150,17 +150,35 @@ class JagrutJoshi:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jags-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" height="180" />
+<!-- Stats Card — using anuraghazra v2 instance for reliability -->
+<img src="https://github-readme-stats.vercel.app/api?username=Jags-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jags-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&border_radius=12&langs_count=8" height="180" />
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jags-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&border_radius=12&langs_count=8&cache_seconds=1800" height="180" />
 
 <br/><br/>
 
+<!-- GitHub Trophies — very reliable, great visual -->
+<img src="https://github-profile-trophy.vercel.app/?username=Jags-08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
+
+<br/><br/>
+
+<!-- Streak Stats — demolab is reliable -->
 <img src="https://streak-stats.demolab.com?user=Jags-08&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&border_radius=12" />
 
 <br/><br/>
 
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jags-08&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true&border_radius=12" width="95%" />
+
+<br/><br/>
+
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jags-08&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jags-08&theme=tokyonight&utcOffset=5.5" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jags-08&theme=tokyonight" height="160"/>
 
 <br/><br/>
 
