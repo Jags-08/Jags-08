@@ -152,11 +152,6 @@ class JagrutJoshi:
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Jags-08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
-
-<br/><br/>
-
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Jags-08&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&border_radius=12" />
 
