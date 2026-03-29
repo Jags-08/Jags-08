@@ -150,11 +150,11 @@ class JagrutJoshi:
 
 <div align="center">
 
-<!-- Stats Card — hosted on separate reliable Vercel instance -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jags-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jags-08&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
 &nbsp;
-<!-- Top Languages Card — same reliable instance -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jags-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&border_radius=12&langs_count=8" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jags-08&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/><br/>
 
