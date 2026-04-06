@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jags-08&label=Profile%20Views&color=1a3a5c&style=for-the-badge"/>
