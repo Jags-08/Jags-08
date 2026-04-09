@@ -143,21 +143,6 @@ Rather than acting as a passive tracker, NeuroWell **actively interprets user da
 
 **Designed for:** Personal health awareness · Preventive care · Behavioral insight
 
----
-
-### 🎫 Helpdesk System · 🏆 Certificate Generator
-
-<div align="center">
-
-<a href="https://github.com/Jags-08/helpdesk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jags-08&repo=helpdesk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_radius=12" />
-</a>
-&nbsp;
-<a href="https://github.com/Jags-08/certificate-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jags-08&repo=certificate-generator&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_radius=12" />
-</a>
-
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0f1e,30:38BDF8,70:38BDF8,100:0a0f1e" width="100%"/>
