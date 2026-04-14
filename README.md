@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jagrut%20Joshi&fontSize=70&fontColor=38BDF8&color=0:0a0f1e,100:1a3a5c"/>
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Designing+Intelligent+Systems+for+the+Real+World+%F0%9F%A7%A0;Bridging+Perception%2C+Reasoning%2C+and+Decision-Making+%F0%9F%94%AC;AI+Architectures+%7C+Computer+Vision+%7C+Safety+Intelligence+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+that+See%2C+Understand%2C+and+Act+%F0%9F%9A%80;Open+to+ML%2FAI+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
