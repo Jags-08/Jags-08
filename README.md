@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Designing+Intelligent+Systems+for+the+Real+World+%F0%9F%A7%A0;Bridging+Perception%2C+Reasoning%2C+and+Decision-Making+%F0%9F%94%AC;AI+Architectures+%7C+Computer+Vision+%7C+Safety+Intelligence+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+that+See%2C+Understand%2C+and+Act+%F0%9F%9A%80;Open+to+ML%2FAI+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jags-08&label=Profile%20Views&color=1a3a5c&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/Jags-08?label=Followers&style=for-the-badge&color=1a3a5c"/>
