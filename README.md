@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Designing+Intelligent+Systems+for+the+Real+World+%F0%9F%A7%A0;Bridging+Perception%2C+Reasoning%2C+and+Decision-Making+%F0%9F%94%AC;AI+Architectures+%7C+Computer+Vision+%7C+Safety+Intelligence+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+that+See%2C+Understand%2C+and+Act+%F0%9F%9A%80;Open+to+ML%2FAI+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=I+don%27t+build+models.+I+build+systems.+%F0%9F%A7%A0;Engineering+AI+that+Perceives%2C+Reasons%2C+and+Acts+%F0%9F%94%AC;Intelligence+is+not+Prediction.+It%27s+Decision-Making.+%F0%9F%9B%A1%EF%B8%8F;Vision+%2B+Reasoning+%2B+Memory+%3D+Intelligent+Systems+%F0%9F%9A%80;Open+to+ML%2FAI+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,25 +31,34 @@ class JagrutJoshi:
     university  = "DY Patil International University, Pune"
     pronouns    = "he/him"
 
+    mission = "Build AI systems that move beyond prediction into decision-making"
+
+    philosophy = [
+        "Systems over models",
+        "Understanding over accuracy",
+        "Real-world impact over benchmarks",
+        "Context over detection — knowing what matters, not just what exists"
+    ]
+
     capabilities = [
-        "Intelligent perception systems (vision + reasoning)",
-        "Safety & anomaly detection pipelines",
-        "Human-centric AI with long-term memory",
-        "End-to-end ML system design & integration"
+        "Intelligent perception systems (vision + contextual reasoning)",
+        "Safety & anomaly detection pipelines with behavioral awareness",
+        "Human-centric AI with emotional context & long-term memory",
+        "End-to-end ML system design — from raw input to actionable output"
     ]
 
     focus_areas = {
-        "vision"    : "Context-aware object detection & scene understanding",
-        "safety"    : "Proactive risk detection & behavioral pattern analysis",
+        "vision"    : "Context-aware scene understanding, not just object detection",
+        "safety"    : "Proactive risk intelligence — predict before it escalates",
         "health_ai" : "Conversational AI with emotional & temporal intelligence",
-        "data"      : "Pattern discovery & decision-support systems"
+        "data"      : "Pattern discovery that drives decisions, not just dashboards"
     }
 
-    approach = [
+    design_principles = [
         "Problem-first, system-level architecture",
-        "Real-world applicability over theoretical models",
-        "Local AI — privacy-preserving, efficient deployment",
-        "Interpretable outputs that bridge AI and human understanding"
+        "Local AI — privacy-preserving, efficient, edge-ready",
+        "Interpretable outputs that bridge AI and human understanding",
+        "Real-world deployability over theoretical precision"
     ]
 
     stack = {
@@ -59,10 +68,42 @@ class JagrutJoshi:
         "tools"   : ["Git", "GitHub", "VS Code", "Jupyter", "Linux"]
     }
 
-    motto = "Don't just model the problem. Engineer the solution. 🚀"
+    motto = "Intelligence is not prediction. It is decision-making. 🚀"
 ```
 
 <br clear="right"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0f1e,30:38BDF8,70:38BDF8,100:0a0f1e" width="100%"/>
+</p>
+
+## ⚡ What Makes My Work Different
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   Most AI systems DETECT.      My systems UNDERSTAND.                   │
+│   Most pipelines PREDICT.      My pipelines DECIDE.                     │
+│   Most models REACT.           My architectures ANTICIPATE.             │
+│                                                                         │
+│   The gap between a model and a system is the gap between               │
+│   academic AI and AI that works in the real world.                      │
+│   I build for the second.                                               │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+| Principle | What It Means in My Work |
+|-----------|--------------------------|
+| 🧠 **Systems > Models** | I design full pipelines — input, processing, reasoning, output — not isolated models |
+| 🔍 **Context > Detection** | I build systems that interpret environments, not just scan them |
+| ⚡ **Decision > Prediction** | My outputs are actionable intelligence, not probability scores |
+| 🔐 **Local > Cloud** | Privacy-first AI — all intelligence on-device, zero cloud dependency |
+| 🌍 **Impact > Benchmarks** | Real-world applicability is the only metric that matters |
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0f1e,30:38BDF8,70:38BDF8,100:0a0f1e" width="100%"/>
@@ -74,45 +115,129 @@ class JagrutJoshi:
 
 ### 👁️ NeuroVision AI — Intelligent Perception System
 
-> *Enabling machines to not just detect, but understand and interpret the visual world.*
+> *Most vision systems detect objects. NeuroVision understands environments.*
 
-NeuroVision AI is an intelligent perception system designed to transform raw visual input into structured, context-aware intelligence. Unlike traditional vision models that stop at detection, NeuroVision emphasizes **understanding** — enabling systems to interpret environments, identify patterns, and extract meaningful insights from visual data.
+**❗ Problem:**
+Conventional computer vision pipelines stop at detection — they label what exists, but fail to interpret what it means. Object bounding boxes without spatial context, temporal continuity, or scene understanding are not intelligence; they are pattern matching at scale.
 
-It operates at the intersection of computer vision and intelligent reasoning, bridging the gap between what machines **see** and what they **understand**.
+**🧠 The Intelligence Gap I'm Solving:**
+Detection answers *"What is here?"* — NeuroVision answers *"What is happening, and why does it matter?"*
+
+**⚙️ System Pipeline:**
+```
+Raw Visual Input
+     │
+     ▼
+Frame Preprocessing (noise reduction, normalization)
+     │
+     ▼
+Object Detection & Classification (OpenCV · real-time inference)
+     │
+     ▼
+Spatial Reasoning Layer (positional relationships · scene mapping)
+     │
+     ▼
+Contextual Understanding Engine (pattern analysis · environment modeling)
+     │
+     ▼
+Structured Intelligence Output (annotated frames · confidence scoring · scene summary)
+```
+
+**🔍 Intelligence Layer:**
+- Spatial reasoning over raw bounding boxes — objects are mapped in relation to each other
+- Temporal continuity across frames — not just what is present, but how it changes
+- Scene-level interpretation — environment state derived from multi-object context
+- Confidence-weighted outputs for downstream decision systems
+
+**📊 Performance Signals:**
+- Real-time frame-by-frame processing pipeline (~live inference)
+- Structured output compatible with downstream safety and analytics modules
+- Modular architecture — perception layer can integrate with SafeNet AI
 
 <div align="center">
 
-| Capability | Implementation |
-|------------|----------------|
-| 🔍 Object Detection & Classification | OpenCV · Real-time inference |
-| 🧠 Contextual Scene Understanding | Pattern analysis · Spatial reasoning |
-| 📊 Structured Output Generation | Annotated frames · Confidence scoring |
-| ⚡ Real-time Visual Pipeline | Frame-by-frame intelligent processing |
+| Capability | Implementation | Signal |
+|------------|----------------|--------|
+| 🔍 Object Detection & Classification | OpenCV · Real-time inference | Live visual pipeline |
+| 🧠 Contextual Scene Understanding | Spatial reasoning · Pattern analysis | Environment-aware, not object-aware |
+| 📊 Structured Intelligence Output | Annotated frames · Confidence scoring | Decision-ready, not display-only |
+| ⚡ Temporal Continuity | Frame-by-frame state tracking | Understands change, not just state |
 
 </div>
 
-**Designed for:** Urban monitoring · Smart infrastructure · Automated visual analysis
+**Compared to standard vision systems:**
+
+| Standard Pipeline | NeuroVision AI |
+|-------------------|----------------|
+| Detects objects | Interprets scenes |
+| Outputs labels | Outputs context |
+| Frame-isolated | Temporally aware |
+| Detection stops here | Intelligence starts here |
+
+**Designed for:** Urban monitoring · Smart infrastructure · Automated situational analysis
 
 ---
 
 ### 🛡️ SafeNet AI — Proactive Safety Intelligence System
 
-> *Moving beyond reactive monitoring into predictive safety awareness.*
+> *Reactive monitoring is not safety. SafeNet predicts risk before it becomes incident.*
 
-SafeNet AI is an intelligent safety and risk detection system engineered to **proactively identify anomalies, hazards, and unsafe conditions** in real-world environments. It integrates visual analysis, behavioral pattern recognition, and rule-based intelligence to flag potential risks before they escalate.
+**❗ Problem:**
+Traditional safety systems are alarms — they trigger *after* a threshold is crossed. In high-stakes environments, by the time an alert fires, the window for intervention has closed. Monitoring is not safety. Anticipation is.
 
-Rather than simply observing events, SafeNet AI **interprets situations** — enabling early intervention and improved situational awareness in high-stakes environments.
+**🧠 The Intelligence Gap I'm Solving:**
+Alert-on-breach answers *"Something went wrong."* — SafeNet answers *"Something is about to go wrong — here's why, and here's when."*
+
+**⚙️ System Pipeline:**
+```
+Environmental Data (visual + behavioral signals)
+     │
+     ▼
+Anomaly Detection Engine (rule-based + visual heuristics)
+     │
+     ▼
+Behavioral Pattern Analyzer (temporal sequence analysis)
+     │
+     ▼
+Context Modeling Layer (multi-factor scene assessment)
+     │
+     ▼
+Risk Scoring & Threshold Intelligence
+     │
+     ▼
+Proactive Alert System (flagged risk · situation interpretation · intervention signal)
+```
+
+**🔍 Intelligence Layer:**
+- Behavioral sequence analysis — patterns over time, not single-frame anomalies
+- Multi-factor scene assessment — risk is derived from context, not thresholds alone
+- Temporal awareness — the system tracks *how* a situation evolves, enabling early flagging
+- Rule-based + learned heuristics working in concert for interpretable decisions
+
+**📊 Performance Signals:**
+- Early-stage anomaly flagging before threshold breach
+- Situation interpretation output — not just "alert" but "why alert"
+- Low false-positive architecture via context-layered scoring
 
 <div align="center">
 
-| Capability | Implementation |
-|------------|----------------|
-| ⚠️ Anomaly Detection | Rule-based + visual heuristics |
-| 🔍 Behavioral Pattern Recognition | Temporal analysis · Context tracking |
-| 🚨 Real-time Risk Flagging | Threshold intelligence · Alert system |
-| 📋 Situation Interpretation | Multi-factor scene assessment |
+| Capability | Implementation | Signal |
+|------------|----------------|--------|
+| ⚠️ Anomaly Detection | Rule-based + visual heuristics | Context-aware, not threshold-only |
+| 🔍 Behavioral Pattern Recognition | Temporal sequence analysis | Tracks evolution, not snapshots |
+| 🚨 Proactive Risk Flagging | Threshold intelligence · Alert system | Predicts, doesn't just react |
+| 📋 Situation Interpretation | Multi-factor scene assessment | Tells you *why* it's a risk |
 
 </div>
+
+**Compared to standard safety systems:**
+
+| Standard Monitoring | SafeNet AI |
+|---------------------|------------|
+| Reacts after threshold | Flags before escalation |
+| Single-frame trigger | Behavioral sequence analysis |
+| Alert only | Alert + situation context |
+| Binary (safe/unsafe) | Graded risk with interpretation |
 
 **Designed for:** Public spaces · Infrastructure monitoring · Industrial safety systems
 
@@ -120,49 +245,106 @@ Rather than simply observing events, SafeNet AI **interprets situations** — en
 
 ### 🧬 NeuroWell — Health Intelligence System
 
-> *Converting human health data into actionable intelligence, not just logs.*
+> *Health data without context is noise. NeuroWell converts patterns into understanding.*
 
-NeuroWell is an AI-powered health intelligence system that transforms daily user inputs into structured insights, behavioral patterns, and predictive observations. It integrates **conversational AI, emotional context detection**, and **long-term memory** to provide continuous, evolving understanding of user well-being.
+**❗ Problem:**
+Most health apps are trackers. They log what you input and display it back. They don't notice that your sleep quality has been declining for two weeks. They don't connect your stress patterns to your exercise data. They don't remember what you said three sessions ago. They store data. They don't build understanding.
 
-Rather than acting as a passive tracker, NeuroWell **actively interprets user data** to surface patterns that would otherwise go unnoticed.
+**🧠 The Intelligence Gap I'm Solving:**
+A log answers *"What happened today?"* — NeuroWell answers *"What is happening to you over time — and what does it mean?"*
+
+**⚙️ System Pipeline:**
+```
+User Input (conversational + behavioral + health metrics)
+     │
+     ▼
+Emotional Context Detection (heuristic NLP + LLM classification)
+     │
+     ▼
+Short-term Session Intelligence (streaming LLM via LM Studio — fully local)
+     │
+     ▼
+Long-term Memory Engine (cross-session pattern extraction)
+     │
+     ▼
+Health Pattern Analyzer (10+ intelligent alert rules · trend modeling)
+     │
+     ▼
+Intelligence Synthesis Layer
+     │
+     ├──▶ Adaptive Visual Dashboard (Chart.js · Radar · Trend overlays)
+     ├──▶ Automated Intelligence Reports (jsPDF · AI-generated weekly summaries)
+     └──▶ Proactive Pattern Alerts (anomaly flags · behavioral insight notifications)
+```
+
+**🔍 Intelligence Layer:**
+- Long-term memory persists across sessions — the system knows your history, not just today
+- Emotional context detection enriches health data with affective state — not just vitals
+- 10+ alert rules fire on behavioral pattern anomalies, not just out-of-range values
+- Weekly AI-generated reports synthesize multi-dimensional health patterns into language
+- Fully local LLM — zero cloud exposure, all intelligence on-device
+
+**📊 Performance Signals:**
+- Multi-session memory with cross-session pattern extraction
+- Low-latency conversational AI pipeline via local LLM
+- Offline-capable PWA — installable, works without network
+- Automated report generation with AI narrative synthesis
 
 <div align="center">
 
-| Capability | Implementation |
-|------------|----------------|
-| 🤖 Conversational AI (Streaming) | Local LLM via LM Studio · Fully private |
-| 🧠 Long-term Memory System | Cross-session pattern extraction |
-| 😰 Emotional Intelligence Layer | Heuristic NLP + LLM classification |
-| 🔍 Health Pattern Detection | 10+ intelligent alert rules |
-| 📄 Automated Intelligence Reports | jsPDF · AI-generated weekly summaries |
-| 📊 Adaptive Visual Dashboard | Chart.js · Radar · Trend analysis |
-| 🔐 Secure Auth | SHA-256 · Sessions · Route Guards |
-| 📱 PWA + Offline Support | Service Worker · Installable |
+| Capability | Implementation | Signal |
+|------------|----------------|--------|
+| 🤖 Conversational AI (Streaming) | Local LLM via LM Studio | Fully private, zero cloud |
+| 🧠 Long-term Memory System | Cross-session pattern extraction | Knows your history, not just today |
+| 😰 Emotional Intelligence Layer | Heuristic NLP + LLM classification | Affective context, not just vitals |
+| 🔍 Health Pattern Detection | 10+ intelligent alert rules | Behavioral anomalies, not threshold alerts |
+| 📄 Automated Intelligence Reports | jsPDF · AI-generated weekly summaries | Narrative synthesis, not data dumps |
+| 📊 Adaptive Visual Dashboard | Chart.js · Radar · Trend analysis | Patterns over time, not daily logs |
+| 🔐 Secure Auth | SHA-256 · Sessions · Route Guards | Production-grade security |
+| 📱 PWA + Offline Support | Service Worker · Installable | Edge-ready, network-independent |
 
 </div>
 
-**Designed for:** Personal health awareness · Preventive care · Behavioral insight
+**Compared to standard health trackers:**
 
+| Standard Health App | NeuroWell |
+|---------------------|-----------|
+| Logs today's data | Builds understanding over time |
+| Shows you what you entered | Finds patterns you didn't notice |
+| Isolated sessions | Persistent memory across sessions |
+| Numeric outputs | Narrative intelligence + visual insight |
+| Cloud-dependent | Fully local, privacy-first |
+
+**Designed for:** Personal health awareness · Preventive behavioral care · Long-term wellness intelligence
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0f1e,30:38BDF8,70:38BDF8,100:0a0f1e" width="100%"/>
 </p>
 
-## ⚙️ Current System Development
+## ⚙️ Active System Development
 
 ```
-🔬  Enhancing NeuroVision — contextual understanding & detection accuracy
-🛡️  Expanding SafeNet AI — behavioral sequence analysis for predictive flagging
-🧬  Deepening NeuroWell — trend forecasting & multi-modal health inputs
-🏗️  Experimenting with real-time AI inference pipelines for edge deployment
+🔬  Pushing NeuroVision toward full contextual scene intelligence
+      └── Richer spatial reasoning, multi-object relationship modeling
+
+🛡️  Expanding SafeNet AI into behavioral sequence prediction
+      └── Temporal pattern chains → earlier, more precise risk flagging
+
+🧬  Deepening NeuroWell with trend forecasting & multi-modal health inputs
+      └── Longitudinal pattern modeling, predictive behavioral alerts
+
+🏗️  Architecting real-time AI inference pipelines for edge deployment
+      └── Low-latency, device-local, no cloud dependency
+
 📐  Researching lightweight CNN architectures for efficient on-device vision
+      └── Performance-accuracy tradeoff optimized for embedded environments
 ```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0f1e,30:38BDF8,70:38BDF8,100:0a0f1e" width="100%"/>
 </p>
 
-## 🛠️ Capabilities & Tech
+## 🛠️ Systems & Capabilities
 
 <div align="center">
 
@@ -200,6 +382,18 @@ Rather than acting as a passive tracker, NeuroWell **actively interprets user da
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
+<br/><br/>
+
+**⚙️ What I Actually Build With These**
+
+| Tool Category | System Capability |
+|---------------|-------------------|
+| OpenCV + scikit-learn | Real-time perception pipelines with context-aware analysis |
+| LM Studio + OpenAI API | Local LLM inference — conversational AI without cloud exposure |
+| NumPy + Pandas + Seaborn | Pattern discovery pipelines that surface behavioral signals |
+| Python + JS + HTML/CSS | End-to-end system integration — backend intelligence to user-facing interface |
+| Git + Linux + VS Code | Production-grade development workflow and deployment tooling |
+
 </div>
 
 <p align="center">
@@ -210,13 +404,13 @@ Rather than acting as a passive tracker, NeuroWell **actively interprets user da
 
 <div align="center">
 
-| Area | What I've Built |
-|------|-----------------|
-| 👁️ Visual Intelligence | Perception pipeline interpreting real-world scenes via computer vision |
-| 🛡️ Safety Systems | Proactive anomaly detection with behavioral pattern analysis |
-| 🧬 Health AI | Conversational system with emotional context & long-term memory |
-| 🏗️ Backend Systems | Ticket management & automated document generation at scale |
-| 🔒 Privacy-first AI | Local LLM deployment — all intelligence on-device, no cloud dependency |
+| Area | What I've Built | Why It Matters |
+|------|-----------------|----------------|
+| 👁️ Visual Intelligence | Perception pipeline interpreting real-world scenes | Moves vision beyond detection into contextual understanding |
+| 🛡️ Safety Systems | Proactive anomaly detection with behavioral pattern analysis | Predicts risk; doesn't wait for it to become incident |
+| 🧬 Health AI | Conversational system with emotional context & long-term memory | Builds understanding over time, not just today's log |
+| 🏗️ Backend Systems | Ticket management & automated document generation at scale | Systems that automate decision-support workflows |
+| 🔒 Privacy-first AI | Local LLM deployment — all intelligence on-device | Production-grade AI without cloud dependency or data exposure |
 
 </div>
 
@@ -253,13 +447,16 @@ Rather than acting as a passive tracker, NeuroWell **actively interprets user da
 ```
 ✅  Built full-stack AI systems with real-world applicability
 ✅  Deployed local LLM architecture — privacy-first, production-grade
-🔄  Scale intelligent perception systems to handle complex environments
-🔄  Develop real-time AI decision pipelines for edge deployment
-🔄  Contribute to open-source AI safety or vision research
-🔄  Land an ML/AI Internship and apply these systems at scale
-⬜  Architect scalable AI combining vision, NLP, and reasoning
-⬜  Publish findings on intelligent safety or perception systems
-⬜  Get AWS / Google Cloud ML certified
+✅  Engineered intelligent safety and perception pipelines end-to-end
+
+🔄  Scale NeuroVision to handle complex multi-object, multi-context environments
+🔄  Deploy SafeNet AI behavioral prediction to edge hardware in real conditions
+🔄  Apply system-level AI thinking in real-world environments at scale (Internship)
+🔄  Contribute to open-source AI safety or vision research with measurable impact
+
+⬜  Architect scalable AI unifying vision, NLP, and structured reasoning in one pipeline
+⬜  Publish technical findings on context-aware safety or intelligent perception systems
+⬜  Achieve AWS / Google Cloud ML certification for production deployment readiness
 ```
 
 <p align="center">
@@ -274,12 +471,24 @@ Rather than acting as a passive tracker, NeuroWell **actively interprets user da
 
 <br/>
 
+```
+Intelligence is not a model.
+It is a system that perceives its environment,
+reasons about what it means,
+and acts on what it understands.
+
+That is what I build.
+```
+
+<br/>
+
 ```python
 while not deployed:
-    identify_real_problem()
-    architect_the_system()
-    build_and_iterate()
-    measure_real_impact()
+    identify_real_problem()          # Start with the gap, not the tool
+    architect_the_system()           # Design end-to-end before writing line one
+    build_with_intelligence_layer()  # Detection is the floor, not the ceiling
+    measure_real_impact()            # Benchmarks don't ship. Systems do.
+    iterate_toward_understanding()   # Accuracy fades. Context compounds.
 ```
 
 </div>
@@ -314,7 +523,7 @@ while not deployed:
 
 <br/>
 
-<em>Building systems that see, understand, and act — let's build something that matters.</em>
+<em>I don't build models. I build systems that see, understand, and act — let's build something that matters.</em>
 
 </div>
 
