@@ -450,18 +450,6 @@ flowchart TD
 
 <div align="center">
 
-<!-- ROW 1: GitHub Stats + Top Languages — equal height, side by side -->
-<table width="100%">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Jags-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=7DD3FC&count_private=true&rank_icon=github" height="165"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jags-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=7DD3FC&langs_count=8" height="165"/>
-</td>
-</tr>
-</table>
-
 <!-- ROW 2: Streak — full width -->
 <img src="https://streak-stats.demolab.com?user=Jags-08&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7DD3FC&border_radius=6&date_format=j%20M%5B%20Y%5D" width="96%"/>
 
@@ -482,13 +470,6 @@ flowchart TD
 </td>
 </tr>
 </table>
-
-<!-- ROW 5: Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jags-08/Jags-08/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jags-08/Jags-08/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Jags-08/Jags-08/output/github-contribution-grid-snake-dark.svg" width="96%"/>
-</picture>
 
 </div>
 
